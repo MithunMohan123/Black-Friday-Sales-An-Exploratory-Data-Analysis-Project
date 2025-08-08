@@ -38,7 +38,7 @@ Ever wondered what drives consumer purchases during Black Friday? Using retail t
 
 ## 🔗 Links
 
-<a href="">EDA code </a> 
+<a href="https://github.com/MithunMohan123/Black-Friday-Sales-An-Exploratory-Data-Analysis-Project/blob/main/Black%20Friday%20Sales%20EDA.ipynb">Python EDA code </a> 
 
 
 ## 🛠️ Tools Used
